@@ -25,7 +25,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/9jwyy206xxw51gp/patchlist.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/pathlist")]
         public string PatchDownloadURL {
             get {
                 return ((string)(this["PatchDownloadURL"]));
@@ -34,7 +34,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/gqhzb7q7igeu058/patchtodel.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/deletefile")]
         public string PatchToDelete {
             get {
                 return ((string)(this["PatchToDelete"]));
@@ -43,7 +43,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/5mt8l6yygd21gzi/version.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/version")]
         public string LauncherVersionUrl {
             get {
                 return ((string)(this["LauncherVersionUrl"]));
@@ -52,7 +52,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/xl9sgprm0zpmbps/news.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/newslist")]
         public string LauncherNewsFileUrl {
             get {
                 return ((string)(this["LauncherNewsFileUrl"]));
@@ -61,7 +61,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/xu0wubztqckn9fi/updates.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/updates")]
         public string LauncherUpdates {
             get {
                 return ((string)(this["LauncherUpdates"]));
@@ -70,7 +70,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://www.dropbox.com/s/ufpb35ihbf23j2q/realmlist.txt?dl=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/relam")]
         public string RealmlistURL {
             get {
                 return ((string)(this["RealmlistURL"]));
