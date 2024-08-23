@@ -7,8 +7,8 @@ using System.Windows;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("%YourName%")]
-[assembly: AssemblyDescription("World of Wacraft发射计划")]
+[assembly: AssemblyTitle("嘟嘟魔兽")]
+[assembly: AssemblyDescription("World of Wacraft")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jumper's Lab")]
 [assembly: AssemblyProduct("%YaourName% Launcher")]
