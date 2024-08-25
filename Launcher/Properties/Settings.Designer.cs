@@ -25,7 +25,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/pathlist")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/pathlist")]
         public string PatchDownloadURL {
             get {
                 return ((string)(this["PatchDownloadURL"]));
@@ -34,7 +34,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/deletefile")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/deletefile")]
         public string PatchToDelete {
             get {
                 return ((string)(this["PatchToDelete"]));
@@ -43,7 +43,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/version")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/version")]
         public string LauncherVersionUrl {
             get {
                 return ((string)(this["LauncherVersionUrl"]));
@@ -52,7 +52,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/newslist")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/newslist")]
         public string LauncherNewsFileUrl {
             get {
                 return ((string)(this["LauncherNewsFileUrl"]));
@@ -61,7 +61,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/updates")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/updates")]
         public string LauncherUpdates {
             get {
                 return ((string)(this["LauncherUpdates"]));
@@ -70,7 +70,7 @@ namespace Launcher.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://xiongmaoren.kekouen.cn/relam")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://127.0.0.1:8000/relam")]
         public string RealmlistURL {
             get {
                 return ((string)(this["RealmlistURL"]));

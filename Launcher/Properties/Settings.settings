@@ -3,22 +3,22 @@
   <Profiles />
   <Settings>
     <Setting Name="PatchDownloadURL" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/pathlist</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/pathlist</Value>
     </Setting>
     <Setting Name="PatchToDelete" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/deletefile</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/deletefile</Value>
     </Setting>
     <Setting Name="LauncherVersionUrl" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/version</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/version</Value>
     </Setting>
     <Setting Name="LauncherNewsFileUrl" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/newslist</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/newslist</Value>
     </Setting>
     <Setting Name="LauncherUpdates" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/updates</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/updates</Value>
     </Setting>
     <Setting Name="RealmlistURL" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://xiongmaoren.kekouen.cn/relam</Value>
+      <Value Profile="(Default)">http://127.0.0.1:8000/relam</Value>
     </Setting>
     <Setting Name="Login" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
